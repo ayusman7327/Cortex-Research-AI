@@ -1,0 +1,11 @@
+/* Cortex Research AI: restrained, responsive research workspace. */
+.stApp { background: #f7f9fc; }
+.block-container { max-width: 1180px; padding-top: 2.6rem; }
+h1 { color: #152641; letter-spacing: -1.5px; }
+h2, h3 { color: #203957; }
+[data-testid="stSidebar"] { background: #eaf0f7; }
+[data-testid="stMetric"] { background: white; border: 1px solid #dce5f0; border-radius: 14px; padding: 18px; }
+[data-testid="stChatMessage"] { border: 1px solid #dce5f0; border-radius: 14px; background: white; }
+.stButton > button { border-radius: 9px; }
+[data-baseweb="tab-list"] { gap: 24px; padding-top: 20px; }
+@media (max-width: 700px) { .block-container { padding-top: 1rem; } h1 { font-size: 2rem; } }

@@ -1,0 +1,20 @@
+FICTIONAL DEMONSTRATION DOCUMENT — NOT A REAL STUDY
+
+Title: Retrieval Methods for a Small Document Collection
+
+Objective
+Compare keyword retrieval and semantic retrieval on a collection of 200 short documents.
+
+Method
+The fictional trial used 100 manually written questions. The semantic system used normalized embeddings and cosine similarity.
+
+Findings
+The semantic retrieval trial achieved 92 percent accuracy. Keyword retrieval achieved 76 percent accuracy.
+
+Limitations
+The sample was small, English-only, and evaluated using manually written questions.
+
+Future work
+Evaluate more languages and a larger document collection.
+
+These numbers are sample data for testing Cortex Research AI, not scientific evidence.
